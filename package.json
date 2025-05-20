@@ -1,0 +1,26 @@
+{
+  "name": "tacheproject",
+  "version": "1.0.0",
+  "description": "projet pour géré et planifié des tâches",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "api",
+    "http",
+    "rest"
+  ],
+  "author": "MIDIKIZI Iréné",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
+  }
+}
